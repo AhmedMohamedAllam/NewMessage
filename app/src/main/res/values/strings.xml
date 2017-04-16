@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">New Message</string>
+    <string name="app_version">Version 1.0</string>
+    <string name="turn_notification_on">Turn notifications (ON)</string>
+    <string name="turn_notification_off">Turn notifications (OFF)</string>
+    <string name="change_number">Change receiving number</string>
+    <string name="tip">Tip: if you add number manually you should add (+2) before it. i.g, +201146....</string>
+
+</resources>
